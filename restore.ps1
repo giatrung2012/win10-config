@@ -1,13 +1,17 @@
+# Folders
+mkdir software
+mkdir docs
+
 # Scoop
 Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 irm get.scoop.sh | iex
 
 # Main
-scoop install 7zip fzf git innounp oh-my-posh sudo winfetch wixtoolset rclone
+scoop install 7zip fzf git innounp oh-my-posh sudo winfetch wixtoolset rclone lsd
 
 # Extras
 scoop bucket add extras
-scoop install appbuster flux nomacs shutup10 sumatrapdf throttlestop vlc windows-terminal 
+scoop install appbuster flux nomacs shutup10 sumatrapdf throttlestop vlc windows-terminal firefox 
 scoop install easyserviceoptimizer -s
 
 # Nerd fonts
@@ -48,3 +52,6 @@ git config --global --add safe.directory D:/
 
 # Stuhack
 git clone https://github.com/isanchop/stuhack.git $HOME\Downloads\stuhack
+
+# Script for remove Edge
+git clone https://github.com/ShadowWhisperer/Remove-Edge-Chromium $HOME\Downloads\Remove-Edge-Chromium
