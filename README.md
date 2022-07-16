@@ -1,17 +1,10 @@
 ## Restore
-- Run restore.ps1 with Windows PowerShell
+- Click restore.bat & rclone-restore.bat
+- Check file reg 7zip & Windows Terminal
+
+## Wifi
+- Disable turn off device to save power in Device Manager
 
 ## Dual boot
-- Run fix-clock-when-dual-boot.reg
-- Disable turn off device to save power in Device Manager
+- Click fix-clock-when-dual-boot.reg
 - Disable auto defrag, fast startup, Windows update service, defender
-
-## Rclone
-```powershell
-rclone config
-```
-```powershell
-rclone sync -i odrive:Pictures $HOME\Pictures\ 
-rclone sync -i odrive:software .\software\ 
-rclone sync -i odrive:docs .\docs\ 
-```

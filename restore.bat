@@ -1,0 +1,1 @@
+powershell.exe -File scripts\restore.ps1
