@@ -6,3 +6,5 @@ cp $HOME\Documents\PowerShell\Microsoft.PowerShell_profile.ps1 .\config\
 rclone sync -i .\software\ odrive:software
 rclone sync -i .\docs\ odrive:docs
 rclone sync -i .\imgs\ odrive:imgs
+rclone sync -i .\videos\ odrive:videos 
+rclone sync -i  .\music\ odrive:music

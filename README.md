@@ -1,5 +1,5 @@
 ## Restore
-- Click restore.bat & rclone-restore.bat
+- Click restore.bat & pull.bat
 - Check file reg 7zip & Windows Terminal
 
 ## Wifi

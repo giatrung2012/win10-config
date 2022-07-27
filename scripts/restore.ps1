@@ -2,6 +2,8 @@
 mkdir software
 mkdir docs
 mkdir imgs
+mkdir videos
+mkdir music
 
 # Scoop
 Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
@@ -12,16 +14,16 @@ scoop install 7zip fzf git innounp oh-my-posh sudo winfetch wixtoolset rclone ls
 
 # Extras
 scoop bucket add extras
-scoop install appbuster flux nomacs shutup10 sumatrapdf throttlestop vlc windows-terminal firefox unlocker authy 
+scoop install appbuster flux nomacs shutup10 sumatrapdf throttlestop vlc windows-terminal unlocker authy 
 scoop install easyserviceoptimizer -s
 
 # Nerd fonts
 scoop bucket add nerd-fonts
-scoop install JetBrainsMono-NF
+scoop install JetBrainsMono-NF 
 
 # Chawyehsu
 scoop bucket add chawyehsu_dorado https://github.com/chawyehsu/dorado
-scoop install powershell
+scoop install powershell process-explorer 
 
 # ACooper81
 scoop bucket add ACooper81_scoop-apps https://github.com/ACooper81/scoop-apps
@@ -58,5 +60,3 @@ git config --global --add safe.directory D:/
 # Stuhack
 git clone https://github.com/isanchop/stuhack.git $HOME\Downloads\stuhack
 
-# Script for remove Edge
-git clone https://github.com/ShadowWhisperer/Remove-Edge-Chromium $HOME\Downloads\Remove-Edge-Chromium
