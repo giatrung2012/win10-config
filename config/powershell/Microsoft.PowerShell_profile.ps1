@@ -1,5 +1,5 @@
 echo `n
-oh-my-posh init pwsh --config D:\config\agnoster.omp.json | Invoke-Expression
+oh-my-posh init pwsh --config D:\config\powershell\agnoster.omp.json | Invoke-Expression
 Import-Module PSReadLine
 Set-PSReadLineOption -PredictionSource History
 
