@@ -4,6 +4,7 @@ mkdir docs
 mkdir imgs
 mkdir videos
 mkdir music
+mkdir workspace
 
 # Scoop
 Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
@@ -14,7 +15,7 @@ scoop install 7zip fzf git innounp oh-my-posh sudo winfetch wixtoolset rclone ls
 
 # Extras
 scoop bucket add extras
-scoop install appbuster nomacs shutup10 vlc windows-terminal unlocker authy vcredist2022 okular geany
+scoop install appbuster nomacs shutup10 vlc windows-terminal unlocker authy vcredist2022 okular notepadplusplus ksnip 
 scoop install easyserviceoptimizer -s
 
 # Nerd fonts
@@ -46,15 +47,14 @@ rm $HOME\scoop\apps\shutup10\current\OOSU10.ini
 cp .\config\shutup10\ooshutup10.cfg $HOME\scoop\apps\shutup10\current\
 cp .\config\easyserviceoptimizer\eso.ini $HOME\scoop\apps\easyserviceoptimizer\current\
 cp .\config\evkey\setting.ini $HOME\scoop\apps\evkey\current\
-cp -r -Force .\config\geany\ $HOME\AppData\Roaming\
 cp .\config\windows-terminal\settings.json "$HOME\AppData\Local\Microsoft\Windows Terminal\" 
 cp -r -Force .\config\okular\ $HOME\AppData\Local\
+cp .\config\notepadplusplus\config.xml $HOME\scoop\apps\notepadplusplus\current\
+cp .\config\notepadplusplus\themes\Dracula.xml $HOME\scoop\apps\notepadplusplus\current\themes\
 
 # Git
 git config --global user.email "trunghsg2012@gmail.com"
 git config --global user.name "giatrung2012"
-git config --global core.editor geany
+git config --global core.editor notepadplusplus
 git config --global --add safe.directory D:/
-
-# Stuhack
-git clone https://github.com/isanchop/stuhack.git $HOME\Downloads\stuhack
+git config --global credential.helper manager-core
