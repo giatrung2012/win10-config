@@ -1,23 +1,13 @@
 ## Restore
-- Turn off real-time defender
-- Right click restore.ps1 run & run with powershell
-- Check file reg 7zip & Windows Terminal
-
-
-## PowerShell
-```powershell
-notepad $PROFILE
-New-Item -Path $PROFILE -Type File -Force
-oh-my-posh init pwsh | Invoke-Expression
-Install-Module PSReadLine
-```
-
-## Terminal config
-```powershell
-cp -Force .\config\powershell\Microsoft.PowerShell_profile.ps1 $HOME\Documents\PowerShell\
-```
+- Turn off real-time defender (for app defender control)
+- Run restore.ps1 with Windows PowerShell
+- Run powershell-setup.ps1 with PowerShell
 
 ## Post restore
 - Add DOCX, XSLX, PTTX to IDM file types
 - Enable WUB with Protect service setings
 - Enale wider and disable noti in f.lux
+
+## IDM
+- Active: run scripts/activate-idm.cmd with administrator -> enter 1
+- Reference: https://nsaneforums.com/topic/371047-discussion-internet-download-manager-fixes/#comment-1578647

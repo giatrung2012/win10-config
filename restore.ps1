@@ -11,7 +11,7 @@ Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 irm get.scoop.sh | iex
 
 # Main
-scoop install 7zip fzf git innounp oh-my-posh sudo winfetch wixtoolset rclone lsd
+scoop install 7zip fzf git innounp oh-my-posh sudo winfetch wixtoolset rclone 
 
 # Extras
 scoop bucket add extras
@@ -21,6 +21,10 @@ scoop install easyserviceoptimizer -s
 # Nerd fonts
 scoop bucket add nerd-fonts
 scoop install JetBrainsMono-NF JetBrains-Mono
+
+# Nirsoft
+scoop bucket add nirsoft
+scoop install shellmenunew specialfoldersview advancedrun 
 
 # Chawyehsu
 scoop bucket add chawyehsu_dorado https://github.com/chawyehsu/dorado
@@ -55,6 +59,6 @@ cp .\config\notepadplusplus\themes\Dracula.xml $HOME\scoop\apps\notepadplusplus\
 # Git
 git config --global user.email "trunghsg2012@gmail.com"
 git config --global user.name "giatrung2012"
-git config --global core.editor notepadplusplus
+git config --global core.editor "'$HOME\scoop\apps\notepadplusplus\current\notepad++.exe' -multiInst -notabbar -nosession -noPlugin"
 git config --global --add safe.directory D:/
 git config --global credential.helper manager-core
