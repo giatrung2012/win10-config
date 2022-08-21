@@ -11,7 +11,8 @@ Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 irm get.scoop.sh | iex
 
 # Main
-scoop install 7zip fzf git innounp oh-my-posh sudo winfetch wixtoolset rclone 
+scoop install 7zip fzf git innounp oh-my-posh sudo winfetch wixtoolset rclone
+scoop install pwsh -s
 
 # Extras
 scoop bucket add extras
@@ -24,27 +25,14 @@ scoop install JetBrainsMono-NF JetBrains-Mono
 
 # Nirsoft
 scoop bucket add nirsoft
-scoop install shellmenunew specialfoldersview advancedrun 
+scoop install specialfoldersview advancedrun 
 
-# Chawyehsu
-scoop bucket add chawyehsu_dorado https://github.com/chawyehsu/dorado
-scoop install powershell process-explorer
-
-# ACooper81
-scoop bucket add ACooper81_scoop-apps https://github.com/ACooper81/scoop-apps
-scoop install SordumWindowsUpdateBlocker-Portable -s
-
-# Hu3rror
-scoop bucket add hu3rror_scoop-muggle https://github.com/hu3rror/scoop-muggle
-scoop install defender-control -s
-
-# Beerpiss
-scoop bucket add beerpiss_scoop-bucket https://github.com/beerpiss/scoop-bucket
-scoop install evkey
-
-# Wentosor
-scoop bucket add wentosor_wentos-bucket https://github.com/wentosor/wentos-bucket
-scoop install InternetDownloadManager -s
+# Unofficial
+scoop install https://github.com/chawyehsu/dorado/blob/master/bucket/process-explorer.json
+scoop install https://github.com/ACooper81/scoop-apps/blob/master/bucket/SordumWindowsUpdateBlocker-Portable.json -s
+scoop install https://github.com/hu3rror/scoop-muggle/blob/master/bucket/defender-control.json -s
+scoop install https://github.com/beerpiss/scoop-bucket/blob/master/bucket/evkey.json
+scoop install https://github.com/whaleink/whale-bucket/blob/master/bucket/InternetDownloadManager.json -s
 
 # Shutup10 config
 rm $HOME\scoop\apps\shutup10\current\OOSU10.ini

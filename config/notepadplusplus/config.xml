@@ -2,6 +2,7 @@
 <NotepadPlus>
     <FindHistory nbMaxFindHistoryPath="10" nbMaxFindHistoryFilter="10" nbMaxFindHistoryFind="10" nbMaxFindHistoryReplace="10" matchWord="no" matchCase="no" wrap="yes" directionDown="yes" fifRecuisive="yes" fifInHiddenFolder="no" dlgAlwaysVisible="no" fifFilterFollowsDoc="no" fifFolderFollowsDoc="no" searchMode="0" transparencyMode="1" transparency="150" dotMatchesNewline="no" isSearch2ButtonsMode="no" fifProjectPanel1="no" fifProjectPanel2="no" fifProjectPanel3="no" regexBackward4PowerUser="no">
         <Filter name="" />
+        <Find name="dotnet" />
         <Find name="learn" />
         <Find name="JetBrain" />
         <Find name="11" />
@@ -9,15 +10,15 @@
         <Replace name="" />
     </FindHistory>
     <History nbMaxFile="10" inSubMenu="no" customLength="-1">
-        <File filename="D:\test.ps1" />
-        <File filename="D:\open-windows-terminal.bat" />
-        <File filename="C:\Users\giatrung2012\Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1" />
-        <File filename="C:\Users\giatrung2012\Documents\PowerShell\Microsoft.PowerShell_profile.ps1" />
-        <File filename="D:\restore.ps1" />
-        <File filename="D:\utils\check-battery.cmd" />
-        <File filename="D:\utils\REAME.md" />
-        <File filename="D:\README.md" />
-        <File filename="D:\powershell-setup.ps1" />
+        <File filename="D:\scripts\pull.ps1" />
+        <File filename="C:\Users\giatrung2012\AppData\Local\OO Software\OO ShutUp10\OOSU10.cfg" />
+        <File filename="C:\Users\giatrung2012\AppData\Local\OO Software\OO AppBuster\OOAPB.cfg" />
+        <File filename="C:\Users\giatrung2012\scoop\apps\appbuster\current\OOAPB.ini" />
+        <File filename="C:\Users\giatrung2012\scoop\apps\shutup10\current\ooshutup10.cfg" />
+        <File filename="G:\[DELETE] Anhdv_Boot_Free_22.3\_MD5_SHA1_File_ISO.txt" />
+        <File filename="D:\software\Office365\configuration-Office2019Enterprise.xml" />
+        <File filename="D:\software\Office365\[OLD] configuration-Office365-x64.xml" />
+        <File filename="D:\software\Office365\configuration-Office365-x64.xml" />
     </History>
     <ProjectPanels>
         <ProjectPanel id="0" workSpaceFile="" />
@@ -31,8 +32,8 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="4" />
-        <GUIConfig name="AppPosition" x="203" y="83" width="1100" height="700" isMaximized="no" />
-        <GUIConfig name="FindWindowPosition" left="92" top="480" right="681" bottom="844" />
+        <GUIConfig name="AppPosition" x="108" y="17" width="1100" height="710" isMaximized="no" />
+        <GUIConfig name="FindWindowPosition" left="-153" top="495" right="436" bottom="859" />
         <GUIConfig name="FinderConfig" wrappedLines="no" purgeBeforeEverySearch="no" showOnlyOneEntryPerFoundLine="yes" />
         <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20080426">yes</GUIConfig>
         <GUIConfig name="Auto-detection">yes</GUIConfig>
@@ -75,6 +76,7 @@
         <GUIConfig name="ScintillaPrimaryView" lineNumberMargin="show" lineNumberDynamicWidth="yes" bookMarkMargin="show" indentGuideLine="show" folderMarkStyle="box" lineWrapMethod="aligned" currentLineIndicator="1" currentLineFrameWidth="1" virtualSpace="no" scrollBeyondLastLine="no" rightClickKeepsSelection="no" disableAdvancedScrolling="no" wrapSymbolShow="hide" Wrap="yes" borderEdge="yes" isEdgeBgMode="no" edgeMultiColumnPos="" zoom="0" zoom2="0" whiteSpaceShow="hide" eolShow="hide" eolMode="1" borderWidth="2" smoothFont="no" paddingLeft="0" paddingRight="0" distractionFreeDivPart="4" />
         <GUIConfig name="DockingManager" leftWidth="200" rightWidth="699" topHeight="200" bottomHeight="200">
             <PluginDlg pluginName="MarkdownViewer++" id="0" curr="1" prev="-1" isVisible="no" />
+            <PluginDlg pluginName="Notepad++::InternalFunction" id="0" curr="3" prev="-1" isVisible="yes" />
             <PluginDlg pluginName="NppMarkdownPanel" id="1" curr="1" prev="-1" isVisible="no" />
             <ActiveTabs cont="0" activeTab="-1" />
             <ActiveTabs cont="1" activeTab="-1" />
