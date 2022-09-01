@@ -1,8 +1,7 @@
 echo `n
 oh-my-posh init pwsh --config D:\config\powershell\agnoster.omp.json | Invoke-Expression
-Import-Module -Name PSReadLine
-Import-Module -Name Terminal-Icons
-Set-PSReadLineOption -PredictionSource History
+
+
 
 # Remove default alias
 del alias:gc -Force

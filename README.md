@@ -7,6 +7,7 @@
 - Add DOCX, XSLX, PTTX to IDM file types
 - Enable WUB with Protect service setings
 - Enale wider and disable noti in f.lux
+- Datetime settings: Control Panel -> Change date, time,... -> https://imgur.com/GDif8qS
 
 ## IDM
 - Active: run scripts/activate-idm.cmd with administrator -> enter 1
