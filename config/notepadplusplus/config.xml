@@ -2,6 +2,9 @@
 <NotepadPlus>
     <FindHistory nbMaxFindHistoryPath="10" nbMaxFindHistoryFilter="10" nbMaxFindHistoryFind="10" nbMaxFindHistoryReplace="10" matchWord="no" matchCase="no" wrap="yes" directionDown="yes" fifRecuisive="yes" fifInHiddenFolder="no" dlgAlwaysVisible="no" fifFilterFollowsDoc="no" fifFolderFollowsDoc="no" searchMode="0" transparencyMode="1" transparency="150" dotMatchesNewline="no" isSearch2ButtonsMode="no" fifProjectPanel1="no" fifProjectPanel2="no" fifProjectPanel3="no" regexBackward4PowerUser="no">
         <Filter name="" />
+        <Find name=".vs" />
+        <Find name="bin" />
+        <Find name="exe" />
         <Find name="tat" />
         <Find name="ta" />
         <Find name="c" />
@@ -9,22 +12,19 @@
         <Find name="speed" />
         <Find name="bo" />
         <Find name="tur" />
-        <Find name="tu" />
-        <Find name="boost" />
-        <Find name="turbo" />
         <Replace name="." />
     </FindHistory>
     <History nbMaxFile="10" inSubMenu="no" customLength="-1">
-        <File filename="D:\software\EVKey\SHA256.txt" />
-        <File filename="C:\Users\giatrung2012\scoop\apps\defender-control\current\install.json" />
-        <File filename="C:\Users\giatrung2012\scoop\apps\defender-control\current\dControl.ini" />
-        <File filename="D:\scripts\backup.ps1" />
-        <File filename="C:\Users\giatrung2012\Downloads\new 1.txt" />
         <File filename="D:\README.md" />
-        <File filename="C:\Users\giatrung2012\Documents\PowerShell\Microsoft.PowerShell_profile.ps1" />
-        <File filename="D:\config\powershell\user-profile.ps1" />
         <File filename="D:\restore.ps1" />
-        <File filename="D:\powershell-setup.ps1" />
+        <File filename="D:\scripts\backup.ps1" />
+        <File filename="D:\workspace\DatabaseSachOnline\HoSyGiaTrung.sql" />
+        <File filename="D:\workspace\README.md" />
+        <File filename="C:\Users\giatrung2012\Downloads\Compressed\startbootstrap-sb-admin-2-gh-pages\index.html" />
+        <File filename="C:\Users\giatrung2012\Downloads\Compressed\startbootstrap-sb-admin-2-gh-pages\README.md" />
+        <File filename="D:\workspace\TechShop\.gitignore" />
+        <File filename="D:\workspace\TechShop\.git\COMMIT_EDITMSG" />
+        <File filename="D:\workspace\TechShop\README.md" />
     </History>
     <ProjectPanels>
         <ProjectPanel id="0" workSpaceFile="" />
@@ -38,8 +38,8 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="4" />
-        <GUIConfig name="AppPosition" x="223" y="31" width="1100" height="703" isMaximized="no" />
-        <GUIConfig name="FindWindowPosition" left="638" top="167" right="1227" bottom="531" />
+        <GUIConfig name="AppPosition" x="148" y="0" width="1100" height="703" isMaximized="no" />
+        <GUIConfig name="FindWindowPosition" left="94" top="337" right="683" bottom="701" />
         <GUIConfig name="FinderConfig" wrappedLines="no" purgeBeforeEverySearch="no" showOnlyOneEntryPerFoundLine="yes" />
         <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20080426">yes</GUIConfig>
         <GUIConfig name="Auto-detection">yes</GUIConfig>
