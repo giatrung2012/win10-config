@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# set PowerShell to UTF-8
+# Set PowerShell to UTF-8
 [console]::InputEncoding = [console]::OutputEncoding = New-Object System.Text.UTF8Encoding
 
 Import-Module posh-git
@@ -32,27 +31,3 @@ function gitPush { git push }
 function gitDiff($item) { git diff $item }
 function gitPull { git pull }
 function gitClone($link) { git clone $link }
-=======
-echo `n
-oh-my-posh init pwsh --config D:\config\powershell\agnoster.omp.json | Invoke-Expression
-
-
-
-# Remove default alias
-del alias:gc -Force
-del alias:gp -Force
-
-# Git
-function gitStatus { git status }
-Set-Alias -Name gt -Value gitStatus
-function gitAdd { git add . }
-Set-Alias -Name ga -Value gitAdd
-function gitCommit { git commit }
-Set-Alias -Name gc -Value gitCommit
-function gitPush { git push }
-Set-Alias -Name gp -Value gitPush
-function gitDiff { git diff }
-Set-Alias -Name gd -Value gitDiff
-function gitPull { git pull }
-Set-Alias -Name gpl -Value gitPull
->>>>>>> refs/remotes/origin/main
