@@ -11,17 +11,21 @@ Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 irm get.scoop.sh | iex
 
 # Main
-scoop install 7zip fzf git innounp oh-my-posh sudo winfetch wixtoolset rclone
+scoop install 7zip fzf git innounp oh-my-posh winfetch wixtoolset rclone sudo 
 scoop install pwsh -s
 
 # Extras
 scoop bucket add extras
-scoop install appbuster nomacs shutup10 vlc windows-terminal unlocker authy vcredist2022 notepadplusplus ksnip psreadline terminal-icons 
+scoop install appbuster nomacs shutup10 vlc windows-terminal unlocker authy vcredist2022 notepadplusplus ksnip psreadline terminal-icons scoop-completion posh-git 
 scoop install easyserviceoptimizer -s
 
 # Nerd fonts
 scoop bucket add nerd-fonts
 scoop install JetBrainsMono-NF JetBrains-Mono 
+
+# Nonportable
+scoop bucket add nonportable
+scoop install office-365-apps-minimal-np
 
 # Shutup10 config
 rm $HOME\scoop\apps\shutup10\current\OOSU10.ini
