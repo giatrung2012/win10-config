@@ -2,16 +2,20 @@
 <NotepadPlus>
     <FindHistory nbMaxFindHistoryPath="10" nbMaxFindHistoryFilter="10" nbMaxFindHistoryFind="10" nbMaxFindHistoryReplace="10" matchWord="no" matchCase="no" wrap="yes" directionDown="yes" fifRecuisive="yes" fifInHiddenFolder="no" dlgAlwaysVisible="no" fifFilterFollowsDoc="no" fifFolderFollowsDoc="no" searchMode="0" transparencyMode="1" transparency="150" dotMatchesNewline="no" isSearch2ButtonsMode="no" fifProjectPanel1="no" fifProjectPanel2="no" fifProjectPanel3="no" regexBackward4PowerUser="no">
         <Filter name="" />
+<<<<<<< HEAD
         <Find name="TH005" />
         <Find name="TH004" />
         <Find name="KT0009.jpg" />
         <Find name=".jpg" />
         <Find name="tin h&#x1ECD;c qu&#x1EA3;n " />
+=======
+>>>>>>> refs/remotes/origin/main
         <Find name=".vs" />
         <Find name="bin" />
         <Find name="exe" />
         <Find name="tat" />
         <Find name="ta" />
+<<<<<<< HEAD
         <Replace name="." />
     </FindHistory>
     <History nbMaxFile="10" inSubMenu="no" customLength="-1">
@@ -25,6 +29,26 @@
         <File filename="D:\workspace\bai-thuc-hanh\ly-thuyet-do-thi\BTH-cung-co\TenThanhVien.txt" />
         <File filename="C:\Users\giatrung2012\Downloads\Compressed\Takeout\Chrome\Autofill.json" />
         <File filename="C:\Users\giatrung2012\Downloads\Compressed\Takeout\Chrome\Extensions.json" />
+=======
+        <Find name="c" />
+        <Find name="step" />
+        <Find name="speed" />
+        <Find name="bo" />
+        <Find name="tur" />
+        <Replace name="." />
+    </FindHistory>
+    <History nbMaxFile="10" inSubMenu="no" customLength="-1">
+        <File filename="D:\README.md" />
+        <File filename="D:\restore.ps1" />
+        <File filename="D:\scripts\backup.ps1" />
+        <File filename="D:\workspace\DatabaseSachOnline\HoSyGiaTrung.sql" />
+        <File filename="D:\workspace\README.md" />
+        <File filename="C:\Users\giatrung2012\Downloads\Compressed\startbootstrap-sb-admin-2-gh-pages\index.html" />
+        <File filename="C:\Users\giatrung2012\Downloads\Compressed\startbootstrap-sb-admin-2-gh-pages\README.md" />
+        <File filename="D:\workspace\TechShop\.gitignore" />
+        <File filename="D:\workspace\TechShop\.git\COMMIT_EDITMSG" />
+        <File filename="D:\workspace\TechShop\README.md" />
+>>>>>>> refs/remotes/origin/main
     </History>
     <ProjectPanels>
         <ProjectPanel id="0" workSpaceFile="" />
@@ -38,8 +62,13 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="4" />
+<<<<<<< HEAD
         <GUIConfig name="AppPosition" x="106" y="7" width="1100" height="703" isMaximized="no" />
         <GUIConfig name="FindWindowPosition" left="247" top="353" right="836" bottom="717" isLessModeOn="no" />
+=======
+        <GUIConfig name="AppPosition" x="148" y="0" width="1100" height="703" isMaximized="no" />
+        <GUIConfig name="FindWindowPosition" left="94" top="337" right="683" bottom="701" />
+>>>>>>> refs/remotes/origin/main
         <GUIConfig name="FinderConfig" wrappedLines="no" purgeBeforeEverySearch="no" showOnlyOneEntryPerFoundLine="yes" />
         <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20080426">yes</GUIConfig>
         <GUIConfig name="Auto-detection">yes</GUIConfig>
@@ -73,8 +102,13 @@
         <GUIConfig name="wordCharList" useDefault="yes" charsAdded="" />
         <GUIConfig name="delimiterSelection" leftmostDelimiter="40" rightmostDelimiter="41" delimiterSelectionOnEntireDocument="no" />
         <GUIConfig name="multiInst" setting="0" />
+<<<<<<< HEAD
         <GUIConfig name="MISC" fileSwitcherWithoutExtColumn="no" fileSwitcherExtWidth="50" fileSwitcherWithoutPathColumn="yes" fileSwitcherPathWidth="50" backSlashIsEscapeCharacterForSql="yes" writeTechnologyEngine="1" isFolderDroppedOpenFiles="no" docPeekOnTab="no" docPeekOnMap="no" sortFunctionList="no" saveDlgExtFilterToAllTypes="no" muteSounds="no" enableFoldCmdToggable="no" hideMenuRightShortcuts="no" />
         <GUIConfig name="Searching" monospacedFontFindDlg="no" fillFindFieldWithSelected="yes" fillFindFieldSelectCaret="yes" findDlgAlwaysVisible="no" confirmReplaceInAllOpenDocs="yes" replaceStopsWithoutFindingNext="no" />
+=======
+        <GUIConfig name="MISC" fileSwitcherWithoutExtColumn="no" fileSwitcherExtWidth="50" fileSwitcherWithoutPathColumn="yes" fileSwitcherPathWidth="50" backSlashIsEscapeCharacterForSql="yes" writeTechnologyEngine="1" isFolderDroppedOpenFiles="no" docPeekOnTab="no" docPeekOnMap="no" sortFunctionList="no" saveDlgExtFilterToAllTypes="no" muteSounds="no" enableFoldCmdToggable="no" />
+        <GUIConfig name="Searching" monospacedFontFindDlg="no" stopFillingFindField="no" findDlgAlwaysVisible="no" confirmReplaceInAllOpenDocs="yes" replaceStopsWithoutFindingNext="no" />
+>>>>>>> refs/remotes/origin/main
         <GUIConfig name="searchEngine" searchEngineChoice="2" searchEngineCustom="" />
         <GUIConfig name="MarkAll" matchCase="no" wholeWordOnly="yes" />
         <GUIConfig name="SmartHighLight" matchCase="no" wholeWordOnly="yes" useFindSettings="no" onAnotherView="no">yes</GUIConfig>
