@@ -15,16 +15,16 @@
         <Replace name="." />
     </FindHistory>
     <History nbMaxFile="10" inSubMenu="no" customLength="-1">
-        <File filename="D:\workspace\bai-thuc-hanh\ly-thuyet-do-thi\BTH2-Cau1b\TenThanhVien.txt" />
-        <File filename="D:\workspace\bai-thuc-hanh\ly-thuyet-do-thi\BTH2-Cau1b\main.cpp" />
-        <File filename="D:\workspace\bai-thuc-hanh\ly-thuyet-do-thi\BTH2-Cau1a\TenThanhVien.txt" />
-        <File filename="D:\workspace\bai-thuc-hanh\ly-thuyet-do-thi\BTH-cung-co\TenThanhVien.txt" />
-        <File filename="C:\Users\giatrung2012\Downloads\Compressed\Takeout\Chrome\Autofill.json" />
-        <File filename="C:\Users\giatrung2012\Downloads\Compressed\Takeout\Chrome\Extensions.json" />
-        <File filename="D:\workspace\bai-thuc-hanh\ly-thuyet-do-thi\BTH2-cung-co\TenThanhVien.txt" />
-        <File filename="D:\workspace\bai-thuc-hanh\.git\COMMIT_EDITMSG" />
-        <File filename="D:\.git\COMMIT_EDITMSG" />
+        <File filename="C:\Users\giatrung2012\.wakatime-internal.cfg" />
+        <File filename="D:\scripts\backup.ps1" />
+        <File filename="C:\Users\giatrung2012\.gitconfig" />
+        <File filename="C:\Users\giatrung2012\AppData\Local\OO Software\OO AppBuster\OOAPB.cfg" />
+        <File filename="C:\Users\giatrung2012\AppData\Local\OO Software\OO ShutUp10\OOSU10.cfg" />
+        <File filename="D:\workspace\Bionature\.gitignore" />
+        <File filename="D:\workspace\Bionature\README.md" />
+        <File filename="C:\Users\giatrung2012\Downloads\ltdt-th3.txt" />
         <File filename="D:\restore.ps1" />
+        <File filename="D:\workspace\Bionature\.git\COMMIT_EDITMSG" />
     </History>
     <ProjectPanels>
         <ProjectPanel id="0" workSpaceFile="" />
@@ -38,7 +38,7 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="4" />
-        <GUIConfig name="AppPosition" x="130" y="7" width="1100" height="703" isMaximized="no" />
+        <GUIConfig name="AppPosition" x="215" y="21" width="922" height="680" isMaximized="no" />
         <GUIConfig name="FindWindowPosition" left="247" top="353" right="836" bottom="717" isLessModeOn="no" />
         <GUIConfig name="FinderConfig" wrappedLines="no" purgeBeforeEverySearch="no" showOnlyOneEntryPerFoundLine="yes" />
         <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20080426">yes</GUIConfig>

@@ -1,0 +1,9 @@
+[user]
+	email = trunghsg2012@gmail.com
+	name = giatrung2012
+[core]
+	editor = 'C:\\Users\\giatrung2012\\scoop\\apps\\notepadplusplus\\current\\notepad++.exe' -multiInst -notabbar -nosession -noPlugin
+[safe]
+	directory = D:/
+[credential]
+	helper = manager-core
