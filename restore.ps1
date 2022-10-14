@@ -10,12 +10,12 @@ Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 irm get.scoop.sh | iex
 
 # Main
-scoop install 7zip fzf git innounp oh-my-posh winfetch wixtoolset rclone sudo aria2 
+scoop install 7zip fzf git innounp winfetch wixtoolset rclone sudo aria2 starship 
 scoop install pwsh -s
 
 # Extras
 scoop bucket add extras
-scoop install appbuster nomacs shutup10 vlc windows-terminal unlocker authy vcredist2022 notepadplusplus ksnip psreadline terminal-icons scoop-completion posh-git 
+scoop install appbuster nomacs shutup10 vlc windows-terminal unlocker authy vcredist2022 notepadplusplus ksnip psreadline terminal-icons scoop-completion posh-git crystaldiskinfo 
 scoop install easyserviceoptimizer -s
 
 # Nerd fonts

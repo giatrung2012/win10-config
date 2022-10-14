@@ -2,29 +2,29 @@
 <NotepadPlus>
     <FindHistory nbMaxFindHistoryPath="10" nbMaxFindHistoryFilter="10" nbMaxFindHistoryFind="10" nbMaxFindHistoryReplace="10" matchWord="no" matchCase="no" wrap="yes" directionDown="yes" fifRecuisive="yes" fifInHiddenFolder="no" dlgAlwaysVisible="no" fifFilterFollowsDoc="no" fifFolderFollowsDoc="no" searchMode="0" transparencyMode="1" transparency="150" dotMatchesNewline="no" isSearch2ButtonsMode="no" fifProjectPanel1="no" fifProjectPanel2="no" fifProjectPanel3="no" regexBackward4PowerUser="no">
         <Filter name="" />
+        <Find name="language" />
+        <Find name="langguage" />
+        <Find name="do-" />
+        <Find name="input" />
+        <Find name="cmake" />
+        <Find name="cma" />
+        <Find name="cmake-" />
         <Find name="TH005" />
         <Find name="TH004" />
         <Find name="KT0009.jpg" />
-        <Find name=".jpg" />
-        <Find name="tin h&#x1ECD;c qu&#x1EA3;n " />
-        <Find name=".vs" />
-        <Find name="bin" />
-        <Find name="exe" />
-        <Find name="tat" />
-        <Find name="ta" />
         <Replace name="." />
     </FindHistory>
     <History nbMaxFile="10" inSubMenu="no" customLength="-1">
-        <File filename="C:\Users\giatrung2012\.wakatime-internal.cfg" />
-        <File filename="D:\scripts\backup.ps1" />
-        <File filename="C:\Users\giatrung2012\.gitconfig" />
-        <File filename="C:\Users\giatrung2012\AppData\Local\OO Software\OO AppBuster\OOAPB.cfg" />
-        <File filename="C:\Users\giatrung2012\AppData\Local\OO Software\OO ShutUp10\OOSU10.cfg" />
-        <File filename="D:\workspace\Bionature\.gitignore" />
-        <File filename="D:\workspace\Bionature\README.md" />
+        <File filename="C:\Users\giatrung2012\Downloads\old-feature-product.txt" />
         <File filename="C:\Users\giatrung2012\Downloads\ltdt-th3.txt" />
+        <File filename="D:\config\powershell\user-profile.ps1" />
         <File filename="D:\restore.ps1" />
-        <File filename="D:\workspace\Bionature\.git\COMMIT_EDITMSG" />
+        <File filename="D:\workspace\bai-thuc-hanh\.git\COMMIT_EDITMSG" />
+        <File filename="C:\Users\giatrung2012\Downloads\my-ublock-backup_2022-10-11_23.19.06.txt" />
+        <File filename="D:\software\Eula.txt" />
+        <File filename="C:\Users\giatrung2012\Downloads\stt-mtt.txt" />
+        <File filename="C:\Users\giatrung2012\AppData\Roaming\CodeBlocks\default.BrowseTracker.ini" />
+        <File filename="D:\scripts\backup.ps1" />
     </History>
     <ProjectPanels>
         <ProjectPanel id="0" workSpaceFile="" />
@@ -38,8 +38,8 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="4" />
-        <GUIConfig name="AppPosition" x="215" y="21" width="922" height="680" isMaximized="no" />
-        <GUIConfig name="FindWindowPosition" left="247" top="353" right="836" bottom="717" isLessModeOn="no" />
+        <GUIConfig name="AppPosition" x="210" y="16" width="922" height="680" isMaximized="no" />
+        <GUIConfig name="FindWindowPosition" left="388" top="157" right="977" bottom="521" isLessModeOn="no" />
         <GUIConfig name="FinderConfig" wrappedLines="no" purgeBeforeEverySearch="no" showOnlyOneEntryPerFoundLine="yes" />
         <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20080426">yes</GUIConfig>
         <GUIConfig name="Auto-detection">yes</GUIConfig>
@@ -79,7 +79,7 @@
         <GUIConfig name="MarkAll" matchCase="no" wholeWordOnly="yes" />
         <GUIConfig name="SmartHighLight" matchCase="no" wholeWordOnly="yes" useFindSettings="no" onAnotherView="no">yes</GUIConfig>
         <GUIConfig name="DarkMode" enable="yes" colorTone="0" customColorTop="2105376" customColorMenuHotTrack="4210752" customColorActive="4210752" customColorMain="2105376" customColorError="176" customColorText="14737632" customColorDarkText="12632256" customColorDisabledText="8421504" customColorLinkText="65535" customColorEdge="6579300" customColorHotEdge="10197915" customColorDisabledEdge="4737096" />
-        <GUIConfig name="ScintillaPrimaryView" lineNumberMargin="show" lineNumberDynamicWidth="yes" bookMarkMargin="show" indentGuideLine="show" folderMarkStyle="box" lineWrapMethod="aligned" currentLineIndicator="1" currentLineFrameWidth="1" virtualSpace="no" scrollBeyondLastLine="no" rightClickKeepsSelection="no" disableAdvancedScrolling="no" wrapSymbolShow="hide" Wrap="yes" borderEdge="yes" isEdgeBgMode="no" edgeMultiColumnPos="" zoom="0" zoom2="0" whiteSpaceShow="hide" eolShow="hide" eolMode="1" borderWidth="2" smoothFont="no" paddingLeft="0" paddingRight="0" distractionFreeDivPart="4" />
+        <GUIConfig name="ScintillaPrimaryView" lineNumberMargin="show" lineNumberDynamicWidth="yes" bookMarkMargin="show" indentGuideLine="show" folderMarkStyle="box" isChangeHistoryEnabled="yes" lineWrapMethod="aligned" currentLineIndicator="1" currentLineFrameWidth="1" virtualSpace="no" scrollBeyondLastLine="no" rightClickKeepsSelection="no" disableAdvancedScrolling="no" wrapSymbolShow="hide" Wrap="yes" borderEdge="yes" isEdgeBgMode="no" edgeMultiColumnPos="" zoom="0" zoom2="0" whiteSpaceShow="hide" eolShow="hide" eolMode="1" borderWidth="2" smoothFont="no" paddingLeft="0" paddingRight="0" distractionFreeDivPart="4" />
         <GUIConfig name="DockingManager" leftWidth="200" rightWidth="699" topHeight="200" bottomHeight="200">
             <PluginDlg pluginName="MarkdownViewer++" id="0" curr="1" prev="-1" isVisible="no" />
             <PluginDlg pluginName="Notepad++::InternalFunction" id="0" curr="3" prev="-1" isVisible="yes" />
