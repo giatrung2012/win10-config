@@ -2,29 +2,29 @@
 <NotepadPlus>
     <FindHistory nbMaxFindHistoryPath="10" nbMaxFindHistoryFilter="10" nbMaxFindHistoryFind="10" nbMaxFindHistoryReplace="10" matchWord="no" matchCase="no" wrap="yes" directionDown="yes" fifRecuisive="yes" fifInHiddenFolder="no" dlgAlwaysVisible="no" fifFilterFollowsDoc="no" fifFolderFollowsDoc="no" searchMode="0" transparencyMode="1" transparency="150" dotMatchesNewline="no" isSearch2ButtonsMode="no" fifProjectPanel1="no" fifProjectPanel2="no" fifProjectPanel3="no" regexBackward4PowerUser="no">
         <Filter name="" />
+        <Find name="cry" />
+        <Find name="software" />
+        <Find name="facebook" />
+        <Find name="faceboook" />
+        <Find name="momo" />
+        <Find name="depen" />
         <Find name="language" />
         <Find name="langguage" />
         <Find name="do-" />
         <Find name="input" />
-        <Find name="cmake" />
-        <Find name="cma" />
-        <Find name="cmake-" />
-        <Find name="TH005" />
-        <Find name="TH004" />
-        <Find name="KT0009.jpg" />
         <Replace name="." />
     </FindHistory>
     <History nbMaxFile="10" inSubMenu="no" customLength="-1">
-        <File filename="C:\Users\giatrung2012\Downloads\old-feature-product.txt" />
-        <File filename="C:\Users\giatrung2012\Downloads\ltdt-th3.txt" />
-        <File filename="D:\config\powershell\user-profile.ps1" />
-        <File filename="D:\restore.ps1" />
-        <File filename="D:\workspace\bai-thuc-hanh\.git\COMMIT_EDITMSG" />
-        <File filename="C:\Users\giatrung2012\Downloads\my-ublock-backup_2022-10-11_23.19.06.txt" />
-        <File filename="D:\software\Eula.txt" />
-        <File filename="C:\Users\giatrung2012\Downloads\stt-mtt.txt" />
-        <File filename="C:\Users\giatrung2012\AppData\Roaming\CodeBlocks\default.BrowseTracker.ini" />
+        <File filename="D:\software\getsusp\GetSusp.xml" />
+        <File filename="G:\pull.cmd" />
+        <File filename="G:\win10-config\restore.ps1" />
+        <File filename="G:\setup.cmd" />
+        <File filename="G:\scripts\setup.ps1" />
         <File filename="D:\scripts\backup.ps1" />
+        <File filename="D:\scripts\pull.ps1" />
+        <File filename="C:\TDSSKiller.3.1.0.28_29.10.2022_15.02.55_log.txt" />
+        <File filename="G:\scripts\pull.ps1" />
+        <File filename="C:\Users\giatrung2012\Downloads\hash-win10-md5.txt" />
     </History>
     <ProjectPanels>
         <ProjectPanel id="0" workSpaceFile="" />
@@ -38,8 +38,8 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="4" />
-        <GUIConfig name="AppPosition" x="210" y="16" width="922" height="680" isMaximized="no" />
-        <GUIConfig name="FindWindowPosition" left="388" top="157" right="977" bottom="521" isLessModeOn="no" />
+        <GUIConfig name="AppPosition" x="178" y="0" width="922" height="680" isMaximized="no" />
+        <GUIConfig name="FindWindowPosition" left="388" top="7" right="977" bottom="371" isLessModeOn="no" />
         <GUIConfig name="FinderConfig" wrappedLines="no" purgeBeforeEverySearch="no" showOnlyOneEntryPerFoundLine="yes" />
         <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20080426">yes</GUIConfig>
         <GUIConfig name="Auto-detection">yes</GUIConfig>

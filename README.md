@@ -9,3 +9,5 @@
 - Datetime settings: Control Panel -> Change date, time,... -> https://imgur.com/GDif8qS
 - Change DNS to 1.1.1.1, 1.0.0.1
 - Settings -> System -> Multitasking -> Alt + Tab -> Open windows only
+- Set TRIM SSD weekly
+- Settings -> Ease of Access -> Keyboard -> Turn off Tickey Keys
