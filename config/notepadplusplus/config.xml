@@ -15,16 +15,16 @@
         <Replace name="." />
     </FindHistory>
     <History nbMaxFile="10" inSubMenu="no" customLength="-1">
-        <File filename="D:\software\getsusp\GetSusp.xml" />
-        <File filename="G:\pull.cmd" />
-        <File filename="G:\win10-config\restore.ps1" />
-        <File filename="G:\setup.cmd" />
-        <File filename="G:\scripts\setup.ps1" />
-        <File filename="D:\scripts\backup.ps1" />
-        <File filename="D:\scripts\pull.ps1" />
-        <File filename="C:\TDSSKiller.3.1.0.28_29.10.2022_15.02.55_log.txt" />
-        <File filename="G:\scripts\pull.ps1" />
-        <File filename="C:\Users\giatrung2012\Downloads\hash-win10-md5.txt" />
+        <File filename="C:\Users\giatrung2012\Downloads\lap-trinh-huong-doi-tuong\lab6\.gitignore" />
+        <File filename="C:\Users\giatrung2012\Downloads\lap-trinh-huong-doi-tuong\README.md" />
+        <File filename="D:\workspace\bai-thuc-hanh\README.md" />
+        <File filename="D:\workspace\bai-thuc-hanh\.git\COMMIT_EDITMSG" />
+        <File filename="D:\run-with-powershell.ps1" />
+        <File filename="D:\restore.ps1" />
+        <File filename="C:\Users\giatrung2012\AppData\Local\OO Software\OO AppBuster\OOAPB.cfg" />
+        <File filename="C:\Users\giatrung2012\AppData\Local\OO Software\OO ShutUp10\OOSU10.cfg" />
+        <File filename="D:\README.md" />
+        <File filename="D:\workspace\SachOnline\.git\COMMIT_EDITMSG" />
     </History>
     <ProjectPanels>
         <ProjectPanel id="0" workSpaceFile="" />
@@ -38,7 +38,7 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="4" />
-        <GUIConfig name="AppPosition" x="178" y="0" width="922" height="680" isMaximized="no" />
+        <GUIConfig name="AppPosition" x="301" y="21" width="922" height="680" isMaximized="no" />
         <GUIConfig name="FindWindowPosition" left="388" top="7" right="977" bottom="371" isLessModeOn="no" />
         <GUIConfig name="FinderConfig" wrappedLines="no" purgeBeforeEverySearch="no" showOnlyOneEntryPerFoundLine="yes" />
         <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20080426">yes</GUIConfig>
