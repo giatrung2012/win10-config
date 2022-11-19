@@ -2,6 +2,8 @@
 <NotepadPlus>
     <FindHistory nbMaxFindHistoryPath="10" nbMaxFindHistoryFilter="10" nbMaxFindHistoryFind="10" nbMaxFindHistoryReplace="10" matchWord="no" matchCase="no" wrap="yes" directionDown="yes" fifRecuisive="yes" fifInHiddenFolder="no" dlgAlwaysVisible="no" fifFilterFollowsDoc="no" fifFolderFollowsDoc="no" searchMode="0" transparencyMode="1" transparency="150" dotMatchesNewline="no" isSearch2ButtonsMode="no" fifProjectPanel1="no" fifProjectPanel2="no" fifProjectPanel3="no" regexBackward4PowerUser="no">
         <Filter name="" />
+        <Find name="head" />
+        <Find name="menu" />
         <Find name="cry" />
         <Find name="software" />
         <Find name="facebook" />
@@ -10,21 +12,19 @@
         <Find name="depen" />
         <Find name="language" />
         <Find name="langguage" />
-        <Find name="do-" />
-        <Find name="input" />
         <Replace name="." />
     </FindHistory>
     <History nbMaxFile="10" inSubMenu="no" customLength="-1">
-        <File filename="C:\Users\giatrung2012\Downloads\lap-trinh-huong-doi-tuong\lab6\.gitignore" />
-        <File filename="C:\Users\giatrung2012\Downloads\lap-trinh-huong-doi-tuong\README.md" />
-        <File filename="D:\workspace\bai-thuc-hanh\README.md" />
-        <File filename="D:\workspace\bai-thuc-hanh\.git\COMMIT_EDITMSG" />
-        <File filename="D:\run-with-powershell.ps1" />
-        <File filename="D:\restore.ps1" />
-        <File filename="C:\Users\giatrung2012\AppData\Local\OO Software\OO AppBuster\OOAPB.cfg" />
-        <File filename="C:\Users\giatrung2012\AppData\Local\OO Software\OO ShutUp10\OOSU10.cfg" />
-        <File filename="D:\README.md" />
-        <File filename="D:\workspace\SachOnline\.git\COMMIT_EDITMSG" />
+        <File filename="C:\Users\giatrung2012\Downloads\Compressed\elegant_font\elegant_font\HTML CSS\lte-ie7.js" />
+        <File filename="C:\Users\giatrung2012\workspace\Bionature\README.md" />
+        <File filename="C:\Users\giatrung2012\Downloads\note-tin-chi.txt" />
+        <File filename="C:\Users\giatrung2012\Downloads\modified-class-ef.txt" />
+        <File filename="C:\Users\giatrung2012\Downloads\note-34-35-36.txt" />
+        <File filename="C:\Users\giatrung2012\Downloads\check-todo-bionature.txt" />
+        <File filename="C:\Users\giatrung2012\win10-scripts\scripts\backup.ps1" />
+        <File filename="C:\Users\giatrung2012\win10-scripts\scripts\pull.ps1" />
+        <File filename="C:\Users\giatrung2012\workspace\Bionature\.git\COMMIT_EDITMSG" />
+        <File filename="C:\Users\giatrung2012\Downloads\hntl.txt" />
     </History>
     <ProjectPanels>
         <ProjectPanel id="0" workSpaceFile="" />
@@ -38,8 +38,8 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="4" />
-        <GUIConfig name="AppPosition" x="301" y="21" width="922" height="680" isMaximized="no" />
-        <GUIConfig name="FindWindowPosition" left="388" top="7" right="977" bottom="371" isLessModeOn="no" />
+        <GUIConfig name="AppPosition" x="241" y="32" width="922" height="680" isMaximized="no" />
+        <GUIConfig name="FindWindowPosition" left="729" top="158" right="1318" bottom="522" isLessModeOn="no" />
         <GUIConfig name="FinderConfig" wrappedLines="no" purgeBeforeEverySearch="no" showOnlyOneEntryPerFoundLine="yes" />
         <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20080426">yes</GUIConfig>
         <GUIConfig name="Auto-detection">yes</GUIConfig>

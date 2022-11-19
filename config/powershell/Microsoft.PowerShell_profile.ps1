@@ -1,1 +1,1 @@
-. D:\config\powershell\user-profile.ps1
+. $HOME\win10-scripts\config\powershell\user-profile.ps1

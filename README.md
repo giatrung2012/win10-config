@@ -1,10 +1,11 @@
-## Restore
-- Run restore.ps1 -> run-with-powershell.ps1
+## Setup
+- Run setup.ps1 with Windows PowerShell
+- Run another-setup.ps1 with PowerShell Core
 
-## Post restore
+## Post setup
 - Windows Update -> install all update & drivers
 - Import files in config/task-scheduler/
-- Add DOCX, XSLX, PTTX to IDM file types
+- Add "DOC DOCX PPT PPTX XLS XLSX" to IDM file types
 - Enale wider and disable notification in f.lux
 - Datetime settings: Control Panel -> Change date, time,... -> https://imgur.com/GDif8qS
 - Change DNS to 1.1.1.1, 1.0.0.1

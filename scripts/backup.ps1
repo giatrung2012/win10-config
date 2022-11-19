@@ -7,8 +7,8 @@ cp "$HOME\AppData\Local\Microsoft\Windows Terminal\settings.json" .\config\windo
 cp "$HOME\AppData\Roaming\CodeBlocks\default.conf" .\config\codeblocks-mingw\
 
 # Folders
-rclone sync .\software\ odrive:software
-rclone sync .\docs\ odrive:docs
-rclone sync .\imgs\ odrive:imgs
-rclone sync .\videos\ odrive:videos
-rclone sync .\music\ odrive:music
+rclone sync $HOME\software\ gdrive:software
+rclone sync $HOME\Documents\ gdrive:Documents
+rclone sync $HOME\Pictures\ gdrive:Pictures
+rclone sync $HOME\Videos\ gdrive:Videos
+rclone sync $HOME\Music\ gdrive:Music

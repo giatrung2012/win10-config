@@ -1,4 +1,4 @@
-rclone sync -i odrive:docs docs\
-rclone sync -i odrive:imgs imgs\
-rclone sync -i odrive:videos videos\
-rclone sync -i odrive:music music\
+rclone sync gdrive:Documents $HOME\Documents\
+rclone sync gdrive:Pictures $HOME\Pictures\
+rclone sync gdrive:Videos $HOME\Videos\
+rclone sync gdrive:Music $HOME\Music\

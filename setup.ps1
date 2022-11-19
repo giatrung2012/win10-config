@@ -1,9 +1,5 @@
-# Folders
-mkdir docs
-mkdir imgs
-mkdir videos
-mkdir music
-mkdir workspace
+# Folder
+mkdir $HOME\workspace
 
 # Scoop
 Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
@@ -14,7 +10,7 @@ scoop install 7zip fzf git innounp winfetch wixtoolset rclone sudo aria2 starshi
 
 # Extras
 scoop bucket add extras
-scoop install nomacs vlc windows-terminal unlocker authy vcredist2022 notepadplusplus ksnip psreadline terminal-icons scoop-completion posh-git wpsoffice  
+scoop install nomacs vlc windows-terminal unlocker authy vcredist2022 notepadplusplus ksnip psreadline terminal-icons scoop-completion posh-git wpsoffice 
 
 # Nerd fonts
 scoop bucket add nerd-fonts
