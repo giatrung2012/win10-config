@@ -1,0 +1,10 @@
+[user]
+	email = trunghsg2012@gmail.com
+	name = giatrung2012
+[core]
+	editor = 'C:/Program Files/Notepad++/notepad++.exe' -multiInst -notabbar -nosession -noPlugin
+[safe]
+	directory = D:/
+	directory = D:/win10-scripts
+[credential]
+	helper = manager-core

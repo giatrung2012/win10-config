@@ -2,6 +2,7 @@
 <NotepadPlus>
     <FindHistory nbMaxFindHistoryPath="10" nbMaxFindHistoryFilter="10" nbMaxFindHistoryFind="10" nbMaxFindHistoryReplace="10" matchWord="no" matchCase="no" wrap="yes" directionDown="yes" fifRecuisive="yes" fifInHiddenFolder="no" dlgAlwaysVisible="no" fifFilterFollowsDoc="no" fifFolderFollowsDoc="no" searchMode="0" transparencyMode="1" transparency="150" dotMatchesNewline="no" isSearch2ButtonsMode="no" fifProjectPanel1="no" fifProjectPanel2="no" fifProjectPanel3="no" regexBackward4PowerUser="no">
         <Filter name="" />
+        <Find name="pwsh" />
         <Find name="head" />
         <Find name="menu" />
         <Find name="cry" />
@@ -11,26 +12,29 @@
         <Find name="momo" />
         <Find name="depen" />
         <Find name="language" />
-        <Find name="langguage" />
         <Replace name="." />
     </FindHistory>
     <History nbMaxFile="10" inSubMenu="no" customLength="-1">
-        <File filename="C:\Users\giatrung2012\Downloads\Compressed\elegant_font\elegant_font\HTML CSS\lte-ie7.js" />
-        <File filename="C:\Users\giatrung2012\workspace\Bionature\README.md" />
-        <File filename="C:\Users\giatrung2012\Downloads\note-tin-chi.txt" />
-        <File filename="C:\Users\giatrung2012\Downloads\modified-class-ef.txt" />
-        <File filename="C:\Users\giatrung2012\Downloads\note-34-35-36.txt" />
-        <File filename="C:\Users\giatrung2012\Downloads\check-todo-bionature.txt" />
-        <File filename="C:\Users\giatrung2012\win10-scripts\scripts\backup.ps1" />
-        <File filename="C:\Users\giatrung2012\win10-scripts\scripts\pull.ps1" />
-        <File filename="C:\Users\giatrung2012\workspace\Bionature\.git\COMMIT_EDITMSG" />
-        <File filename="C:\Users\giatrung2012\Downloads\hntl.txt" />
+        <File filename="C:\Users\giatrung2012\win10-scripts\README.md" />
+        <File filename="C:\Users\giatrung2012\workspace\Bionature\Bionature.Web\Areas\Admin\Controllers\ProductController.cs" />
+        <File filename="C:\Users\giatrung2012\workspace\Bionature\Bionature.Model\DAO\ProductDAO.cs" />
+        <File filename="C:\Users\giatrung2012\workspace\Bionature\Bionature.Model\EF\OrderDetail.cs" />
+        <File filename="C:\Users\giatrung2012\workspace\Bionature\Bionature.Model\EF\Order.cs" />
+        <File filename="C:\Users\giatrung2012\workspace\Bionature\Bionature.Model\DAO\OrderDetailDAO.cs" />
+        <File filename="C:\Users\giatrung2012\workspace\Bionature\Bionature.Model\DAO\OrderDAO.cs" />
+        <File filename="C:\Users\giatrung2012\Downloads\test.cs" />
+        <File filename="C:\Users\giatrung2012\Downloads\new 1.txt" />
+        <File filename="C:\Users\giatrung2012\win10-scripts\setup.ps1" />
     </History>
     <ProjectPanels>
         <ProjectPanel id="0" workSpaceFile="" />
         <ProjectPanel id="1" workSpaceFile="" />
         <ProjectPanel id="2" workSpaceFile="" />
     </ProjectPanels>
+    <ColumnEditor choice="number">
+        <text content="" />
+        <number initial="-1" increase="-1" repeat="-1" leadingZeros="no" formatChoice="dec" />
+    </ColumnEditor>
     <GUIConfigs>
         <GUIConfig name="ToolBar" visible="yes">small</GUIConfig>
         <GUIConfig name="StatusBar">show</GUIConfig>
@@ -38,8 +42,8 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="4" />
-        <GUIConfig name="AppPosition" x="241" y="32" width="922" height="680" isMaximized="no" />
-        <GUIConfig name="FindWindowPosition" left="729" top="158" right="1318" bottom="522" isLessModeOn="no" />
+        <GUIConfig name="AppPosition" x="327" y="39" width="922" height="680" isMaximized="no" />
+        <GUIConfig name="FindWindowPosition" left="729" top="128" right="1318" bottom="492" isLessModeOn="no" />
         <GUIConfig name="FinderConfig" wrappedLines="no" purgeBeforeEverySearch="no" showOnlyOneEntryPerFoundLine="yes" />
         <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20080426">yes</GUIConfig>
         <GUIConfig name="Auto-detection">yes</GUIConfig>
@@ -68,10 +72,11 @@
         <GUIConfig name="ScintillaGlobalSettings" enableMultiSelection="no" />
         <GUIConfig name="openSaveDir" value="0" defaultDirPath="" />
         <GUIConfig name="titleBar" short="no" />
-        <GUIConfig name="stylerTheme" path="C:\Users\giatrung2012\scoop\apps\notepadplusplus\current\themes\Dracula.xml" />
+        <GUIConfig name="stylerTheme" path="C:\Users\giatrung2012\AppData\Roaming\Notepad++\themes\Dracula.xml" />
         <GUIConfig name="insertDateTime" customizedFormat="yyyy-MM-dd HH:mm:ss" reverseDefaultOrder="no" />
         <GUIConfig name="wordCharList" useDefault="yes" charsAdded="" />
         <GUIConfig name="delimiterSelection" leftmostDelimiter="40" rightmostDelimiter="41" delimiterSelectionOnEntireDocument="no" />
+        <GUIConfig name="largeFileRestriction" fileSizeMB="200" isEnabled="yes" allowAutoCompletion="no" allowBraceMatch="no" allowSmartHilite="no" allowClickableLink="no" deactivateWordWrap="yes" />
         <GUIConfig name="multiInst" setting="0" />
         <GUIConfig name="MISC" fileSwitcherWithoutExtColumn="no" fileSwitcherExtWidth="50" fileSwitcherWithoutPathColumn="yes" fileSwitcherPathWidth="50" backSlashIsEscapeCharacterForSql="yes" writeTechnologyEngine="1" isFolderDroppedOpenFiles="no" docPeekOnTab="no" docPeekOnMap="no" sortFunctionList="no" saveDlgExtFilterToAllTypes="no" muteSounds="no" enableFoldCmdToggable="no" hideMenuRightShortcuts="no" />
         <GUIConfig name="Searching" monospacedFontFindDlg="no" fillFindFieldWithSelected="yes" fillFindFieldSelectCaret="yes" findDlgAlwaysVisible="no" confirmReplaceInAllOpenDocs="yes" replaceStopsWithoutFindingNext="no" />

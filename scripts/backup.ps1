@@ -1,10 +1,9 @@
 # Files
-cp $HOME\scoop\apps\nomacs\current\settings.ini .\config\nomacs\
-cp $HOME\scoop\apps\notepadplusplus\current\config.xml .\config\notepadplusplus\
-cp $HOME\.gitconfig .\config\git\
-cp $HOME\Documents\PowerShell\Microsoft.PowerShell_profile.ps1 .\config\powershell\
-cp "$HOME\AppData\Local\Microsoft\Windows Terminal\settings.json" .\config\windows-terminal\
-cp "$HOME\AppData\Roaming\CodeBlocks\default.conf" .\config\codeblocks-mingw\
+cp -r $HOME\AppData\Roaming\nomacs\ .\AppData\Roaming\
+cp $HOME\AppData\Roaming\Notepad++\config.xml .\AppData\Roaming\Notepad++\
+cp $HOME\.gitconfig .\
+cp $HOME\AppData\Local\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\settings.json .\AppData\Local\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\
+cp $HOME\AppData\Roaming\CodeBlocks\default.conf .\AppData\Roaming\CodeBlocks\
 
 # Folders
 rclone sync $HOME\software\ gdrive:software
