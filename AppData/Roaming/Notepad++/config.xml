@@ -2,6 +2,8 @@
 <NotepadPlus>
     <FindHistory nbMaxFindHistoryPath="10" nbMaxFindHistoryFilter="10" nbMaxFindHistoryFind="10" nbMaxFindHistoryReplace="10" matchWord="no" matchCase="no" wrap="yes" directionDown="yes" fifRecuisive="yes" fifInHiddenFolder="no" dlgAlwaysVisible="no" fifFilterFollowsDoc="no" fifFolderFollowsDoc="no" searchMode="0" transparencyMode="1" transparency="150" dotMatchesNewline="no" isSearch2ButtonsMode="no" fifProjectPanel1="no" fifProjectPanel2="no" fifProjectPanel3="no" regexBackward4PowerUser="no">
         <Filter name="" />
+        <Find name="main" />
+        <Find name="sysmain" />
         <Find name="pwsh" />
         <Find name="head" />
         <Find name="menu" />
@@ -10,21 +12,19 @@
         <Find name="facebook" />
         <Find name="faceboook" />
         <Find name="momo" />
-        <Find name="depen" />
-        <Find name="language" />
         <Replace name="." />
     </FindHistory>
     <History nbMaxFile="10" inSubMenu="no" customLength="-1">
-        <File filename="C:\Users\giatrung2012\win10-scripts\README.md" />
-        <File filename="C:\Users\giatrung2012\workspace\Bionature\Bionature.Web\Areas\Admin\Controllers\ProductController.cs" />
-        <File filename="C:\Users\giatrung2012\workspace\Bionature\Bionature.Model\DAO\ProductDAO.cs" />
-        <File filename="C:\Users\giatrung2012\workspace\Bionature\Bionature.Model\EF\OrderDetail.cs" />
-        <File filename="C:\Users\giatrung2012\workspace\Bionature\Bionature.Model\EF\Order.cs" />
-        <File filename="C:\Users\giatrung2012\workspace\Bionature\Bionature.Model\DAO\OrderDetailDAO.cs" />
-        <File filename="C:\Users\giatrung2012\workspace\Bionature\Bionature.Model\DAO\OrderDAO.cs" />
-        <File filename="C:\Users\giatrung2012\Downloads\test.cs" />
-        <File filename="C:\Users\giatrung2012\Downloads\new 1.txt" />
+        <File filename="C:\Users\giatrung2012\workspace\Bionature\.git\COMMIT_EDITMSG" />
+        <File filename="C:\Users\giatrung2012\Downloads\uninstall-context.reg.txt" />
+        <File filename="C:\Users\giatrung2012\win10-scripts\.gitignore" />
+        <File filename="C:\Users\giatrung2012\.gitconfig" />
+        <File filename="C:\Users\giatrung2012\win10-scripts\scripts\backup.ps1" />
+        <File filename="C:\Users\giatrung2012\Downloads\assets\elements-harmic-organic-food-html-template-PR7NCVA-MQnkMLfI-07-18\change-log.txt" />
         <File filename="C:\Users\giatrung2012\win10-scripts\setup.ps1" />
+        <File filename="C:\Users\giatrung2012\Downloads\Compressed\Hibernate\Read_me.txt" />
+        <File filename="C:\Users\giatrung2012\win10-scripts\README.md" />
+        <File filename="C:\Users\giatrung2012\win10-scripts\.gitconfig" />
     </History>
     <ProjectPanels>
         <ProjectPanel id="0" workSpaceFile="" />
@@ -42,8 +42,8 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="4" />
-        <GUIConfig name="AppPosition" x="327" y="39" width="922" height="680" isMaximized="no" />
-        <GUIConfig name="FindWindowPosition" left="729" top="128" right="1318" bottom="492" isLessModeOn="no" />
+        <GUIConfig name="AppPosition" x="291" y="33" width="922" height="680" isMaximized="no" />
+        <GUIConfig name="FindWindowPosition" left="729" top="98" right="1318" bottom="462" isLessModeOn="no" />
         <GUIConfig name="FinderConfig" wrappedLines="no" purgeBeforeEverySearch="no" showOnlyOneEntryPerFoundLine="yes" />
         <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20080426">yes</GUIConfig>
         <GUIConfig name="Auto-detection">yes</GUIConfig>

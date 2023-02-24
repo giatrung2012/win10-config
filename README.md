@@ -7,7 +7,6 @@
 - Add "DOC DOCX PPT PPTX XLS XLSX" to IDM file types
 - Enale wider and disable notification in f.lux
 - Datetime settings: Control Panel -> Change date, time,... -> https://imgur.com/GDif8qS
-- Change DNS to 1.1.1.1, 1.0.0.1
 - Settings -> System -> Multitasking -> Alt + Tab -> Open windows only
 - Settings -> Ease of Access -> Keyboard -> Turn off Tickey Keys
 - Disable "turn off device to save power" in Device Manager

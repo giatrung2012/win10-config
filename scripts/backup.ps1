@@ -1,8 +1,6 @@
 # Files
-cp -r $HOME\AppData\Roaming\nomacs\ .\AppData\Roaming\
 cp $HOME\AppData\Roaming\Notepad++\config.xml .\AppData\Roaming\Notepad++\
 cp $HOME\.gitconfig .\
-cp $HOME\AppData\Local\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\settings.json .\AppData\Local\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\
 cp $HOME\AppData\Roaming\CodeBlocks\default.conf .\AppData\Roaming\CodeBlocks\
 
 # Folders
