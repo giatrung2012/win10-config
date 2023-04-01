@@ -15,16 +15,16 @@
         <Replace name="." />
     </FindHistory>
     <History nbMaxFile="10" inSubMenu="no" customLength="-1">
-        <File filename="C:\Users\giatrung2012\workspace\Bionature\.git\COMMIT_EDITMSG" />
-        <File filename="C:\Users\giatrung2012\Downloads\uninstall-context.reg.txt" />
-        <File filename="C:\Users\giatrung2012\win10-scripts\.gitignore" />
-        <File filename="C:\Users\giatrung2012\.gitconfig" />
-        <File filename="C:\Users\giatrung2012\win10-scripts\scripts\backup.ps1" />
         <File filename="C:\Users\giatrung2012\Downloads\assets\elements-harmic-organic-food-html-template-PR7NCVA-MQnkMLfI-07-18\change-log.txt" />
-        <File filename="C:\Users\giatrung2012\win10-scripts\setup.ps1" />
         <File filename="C:\Users\giatrung2012\Downloads\Compressed\Hibernate\Read_me.txt" />
         <File filename="C:\Users\giatrung2012\win10-scripts\README.md" />
         <File filename="C:\Users\giatrung2012\win10-scripts\.gitconfig" />
+        <File filename="C:\Users\giatrung2012\win10-scripts\scripts\backup.ps1" />
+        <File filename="C:\Users\giatrung2012\win10-scripts\setup.ps1" />
+        <File filename="D:\battery-report.cmd" />
+        <File filename="D:\scripts\setup.ps1" />
+        <File filename="D:\scripts\pull.ps1" />
+        <File filename="D:\Acer\Desktop\Router Settings.txt" />
     </History>
     <ProjectPanels>
         <ProjectPanel id="0" workSpaceFile="" />
