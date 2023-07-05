@@ -6,11 +6,11 @@ Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 irm get.scoop.sh | iex
 
 # Main
-scoop install 7zip aria2 winfetch fzf rclone git pwsh sudo
+scoop install 7zip fzf rclone git pwsh sudo
 
 # Extras
 scoop bucket add extras
-scoop install notepadplusplus lockhunter authy
+scoop install notepadplusplus lockhunter authy telegram chatgpt
 
 # Nerd fonts
 scoop bucket add nerd-fonts
@@ -19,6 +19,16 @@ scoop install JetBrains-Mono
 # Nonportable
 scoop bucket add nonportable
 scoop install office-365-apps-minimal-np
+
+# Winget
+winget install --id=Brave.Brave -e
+winget install --id=Cloudflare.Warp -e
+winget install --id=flux.flux -e
+winget install --id=NextDNS.NextDNS.Desktop -e
+winget install --id=VirusTotal.VirusTotalUploader -e
+winget install --id=VNGCorp.Zalo -e
+winget install --id=Spotify.Spotify -e
+winget install --id=Facebook.Messenger -e
 
 # Config
 cp $HOME\win10-scripts\config\notepadplusplus\config.xml $HOME\scoop\apps\notepadplusplus\current\
@@ -30,9 +40,3 @@ reg import $HOME\scoop\apps\7zip\current\install-context.reg
 reg import $HOME\scoop\apps\pwsh\current\install-explorer-context.reg
 reg import $HOME\scoop\apps\notepadplusplus\current\install-context.reg
 reg import $HOME\scoop\apps\lockhunter\current\install-context.reg
-
-# Dual boot
-sudo reg import $HOME\win10-scripts\scripts\fix-clock-for-dual-boot.reg
-
-# Active IDM
-iwr -useb https://raw.githubusercontent.com/lstprjct/IDM-Activation-Script/main/IAS.ps1 | iex
